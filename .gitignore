@@ -37,4 +37,13 @@ DerivedDataCache/*
 
 #Starter Content
 Content/StarterContent/*
-/Content/Characters
+
+Content/FirstPerson/*
+
+Content/FirstPersonArms/*
+
+Content/FPWeapon/*
+
+
+
+
